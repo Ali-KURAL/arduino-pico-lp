@@ -94,6 +94,7 @@ target_link_libraries(pico
     pico_stdlib
     pico_unique_id
     pico_util
+    pico_sleep
     tinyusb
     tinyusb_device_unmarked
 )
